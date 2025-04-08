@@ -1,0 +1,26 @@
+{
+  "name": "database-ca-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeep-diggu/Database-CA-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeep-diggu/Database-CA-1/issues"
+  },
+  "homepage": "https://github.com/Sandeep-diggu/Database-CA-1#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.1.9"
+  }
+}
